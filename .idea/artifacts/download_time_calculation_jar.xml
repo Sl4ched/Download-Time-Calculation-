@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="download time calculation:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/download_time_calculation_jar</output-path>
+    <root id="archive" name="download time calculation.jar">
+      <element id="module-output" name="download time calculation" />
+    </root>
+  </artifact>
+</component>
